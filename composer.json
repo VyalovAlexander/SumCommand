@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/console": "^4.1",
+        "vyalov.alexander/sum": "^1.0"
+    },
+    "autoload": {
+        "psr-4" : {
+            "VyalovAlexander\\" : "src"
+        }
+    }
+}
